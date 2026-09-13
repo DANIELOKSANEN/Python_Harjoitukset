@@ -3,7 +3,3 @@ koodi1 = str(random.randint(0, 9)) + str(random.randint(0, 9)) + str(random.rand
 koodi2 = str(random.randint(1, 6)) + str(random.randint(1, 6)) + str(random.randint(1, 6)) + str(random.randint(1, 6))
 print("Kolmenumeroinen koodi:", koodi1)
 print("Nelinumeroinen koodi:", koodi2)    
-
-
-
-
